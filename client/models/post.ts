@@ -4,5 +4,5 @@ export interface Post {
     author: string;
     upVotes: number;
     url: string;
-    parmalink: string
+    permalink: string
 }
